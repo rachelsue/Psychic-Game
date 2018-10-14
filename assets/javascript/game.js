@@ -34,6 +34,8 @@ if  (guessesLeft <0) {
 
 
 var html =
+"<h1>The Psychic Game</h1>" +
+"<h3>Guess which letter I'm thinking of...</h3>" +
 "<p>You chose: " + userChoice + "</p>" +
 "<p>The computer chose: " + answer + "</p>" +
 "<p>wins: " + wins + "</p>" +
